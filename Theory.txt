@@ -96,4 +96,22 @@ Test Click Event with Button
     - Import component in test file
     - Write code for test click event.
     - Run test case.
-    
+
+File and Folder naming convention
+
+    - What file name we can use for test case file?(file_name.test.js)
+    - Folder name for testing files.
+    - Run test case with naming convention.
+
+file_name.test.js
+file_name.spec.js
+file_name.spec.jsx
+.__tests__
+
+
+Before and After hooks
+
+    - use of before and after hook
+    - beforeAll and beforeEach
+    - AfterAll and afterEach
+    - Example
