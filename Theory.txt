@@ -1,0 +1,99 @@
+What is Testing?
+
+Software testing is the process of finding errors in a Software product before it is launched.
+validate functioning and features of software.
+
+Type of testing>
+Tester
+
+Manual Testing
+Automatic Testing
+
+
+Testing by developers
+
+Unit Testing -  Testing individual units or components
+Integrated Testing - Testing between two units or components
+E-2-E Testing - Test Start to end complete projects.
+
+
+React Testing Tools
+
+Jest Framwork
+React Testing Libray
+
+
+Write Basic Test case
+
+- Make JS file a simple functioning
+- Make Test file 
+- What is Test function
+- What is expect function
+- Write Test case
+- Run Test case
+
+Understand React Test Structure:-
+
+What needs to import
+how to render the components
+how tests working with RTL
+how test finding UI elements
+
+
+Write First React Test
+
+- Make New Test function
+- Write test case for check text on screen
+- Write test for case-insensitive text.
+- Test title for image
+- Write multiple expect in the same test function
+
+
+Test input Box
+
+- Make input box in App component.
+- Write Test case function
+- The test Input box is present or not.
+- Test input box.
+ - name
+ - placeholder
+ - id
+ - value
+ - type
+
+
+Test Case Run Options
+  - How to run specific test files
+  - What is watch Mode?
+  - How to run the failed test case?
+  - How to quit watch mode.
+  - How to filter test files for run.
+  - How to filter test case.
+
+    - How to run specific test files?
+    npm run test (name of file without .test.js extension) then the test is run on specific files that you are interested in.
+
+Test Grouping with Describe
+    - What is describe?
+    - How to make test cases group?
+    - Run test case with describe?
+    - Skip in Describe?
+    - Only in Describe?
+    - Nested Describe?
+
+Test OnChange Event with Input Box
+
+    - Make input box in the component
+    - Define state and use with on change Event
+    - Import component in test file
+    - Write code for test case
+    - Run test case
+
+Test Click Event with Button
+
+    - Make Button and state in the component
+    - Update state with button click Event
+    - Import component in test file
+    - Write code for test click event.
+    - Run test case.
+    
